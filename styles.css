@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+.container{
+	display: grid;
+  grid-template-columns: repeat(40, 1fr); 
+}
+.square{
+	  /*background-color: #2196F3;*/
+  border: 1px solid black;
+  padding:4px;
+}
