@@ -7,11 +7,11 @@
 	  /*background-color: #2196F3;*/
   border: 1px solid black;
   padding:4px;
-	/*background-color:n;*/
+	background-color:rgb(29, 29, 29);
 	transition-property: background-color;
 	transition-delay:1s;
 	transition-duration:1s;
 }
 .square:hover{
-	background-color:rgb(29, 29, 29);
+	background-color:none;
 }
